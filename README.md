@@ -1,5 +1,11 @@
 # Classification of Laguerre-Gauss Spatial Light Modes with CNNs (PyTorch)
 
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-research-orange)
+![Field](https://img.shields.io/badge/field-computational%20physics-purple)
+![GitHub last commit](https://img.shields.io/github/last-commit/b-salgado13/Cancer_Metastasis_Simulations)
+
 This repository is a PyTorch reimplementation of the MATLAB neural networks originally developed for the undergraduate [thesis](https://ri-ng.uaq.mx/handle/123456789/10410) *"Reconstrucción de modos espaciales de luz a partir de redes neuronales profundas"* ([Bruno Salgado](https://brunosalgado.website/)). It reproduces, appendix by appendix, the multilayer perceptron, the custom 3-layer CNN, and the transfer-learning networks (EfficientNet-B0, ResNet18/50/101) used to classify intensity patterns of Laguerre-Gauss (LG) light modes after propagation through free space or multimode optical fiber.
 
 ---
